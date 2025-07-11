@@ -1,4 +1,4 @@
-# Server and hybrid rendering
+# Server and hybrid rendering Misal
 
 Angular ships all applications as client-side rendered (CSR) by default. While this approach delivers a initial payload that's lightweight, it introduces trade-offs including slower load times, degraded performance metrics, and higher resource demands since the user's device performs most of the computations. As a result, many applications achieve significant performance improvements by integrating server-side rendering (SSR) into a hybrid rendering strategy.
 
